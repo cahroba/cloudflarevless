@@ -1,0 +1,4 @@
+name = "vless-worker"
+type = "javascript"
+main = "worker.js"
+compatibility_date = "2025-06-22"
